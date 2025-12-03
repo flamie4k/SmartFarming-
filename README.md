@@ -36,10 +36,4 @@ A smart farming system built on an **ESP32 microcontroller** to monitor environm
 4. Automated triggers can activate actuators (pump, fan, lighting).
 5. Logged data provides insights for optimizing plant conditions.
 
-## Installation
 
-1. Install **Arduino IDE** or **PlatformIO**.
-2. Add the **ESP32 board package**.
-3. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/smart-farming.git
